@@ -81,21 +81,22 @@ print(data_from_file)
      
 ```
 
-Run the code Run the script both in PyCharm and an OS command/shell window and capture images of it working on my computer 
-This is the screen shot of the script running in PyCharm(Figure 1) 
+## Run the code
+
+Run the script both in PyCharm and an OS command/shell window and capture images of it working on my computer 
+
+### This is the screen shot of the script running in PyCharm(Figure 1) 
 Figure 1: the screen shot of the script running in PyCharm
+![1.png](1.png)
 
-This is the screen shot of the script running in IDLE(Figure 2)
-
-
-Figure 2: the screen shot of the script running in IDLE
-
+### This is the screen shot of the script running in IDLE(Figure 2)
+![2.png](2.png)
 
 
-
-Verify that it Worked 
+### Verify that it Worked 
 Locate the binary file and open it in a text editor(Figure 3). 
 Figure 3: Verifying that the file has data
+![3.png](3.png)
 
 ## Summary 
 In this module, I got to learn exception handling and Python’s pickling. I benefit from doing my own research and have a better understanding of the assignment. 
